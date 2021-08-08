@@ -69,7 +69,7 @@ p {
 }
 
 #fd {
-    background-image: url(image/bg-first.jpg);
+    background-image: url(image/dev.png);
     background-size: cover;
     background-position: top center;
     position: relative;
