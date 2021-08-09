@@ -50,7 +50,7 @@ p {
     text-align: center;
 }
 #header .brand span {
-    color: yellow;
+    color: red;
 }
 #header {
 	position: fixed;
@@ -107,7 +107,7 @@ p {
     padding: 10px 30px;
     color: white;
     background-color: transparent;
-    border: 2px solid yellow;
+    border: 2px solid red;
     font-size: 2rem;
     text-transform: uppercase;
     letter-spacing: 1rem;
@@ -120,7 +120,7 @@ p {
 }
 #fd .cta:hover {
     color: white;
-    background-color: yellow;
+    background-color: red;
 }
 
 #pp .pp {
@@ -140,7 +140,7 @@ p {
     text-align: center;
 }
 #pp .pp-title span {
-    color: yellow;
+    color: red;
 }
 #pp .pp-bottom {
     display: flex;
@@ -201,7 +201,7 @@ p {
     text-align: center;
 }
 #dp .dp-title span {
-    color: yellow;
+    color: red;
 }
 #dp .dp {
     flex-direction: column;
@@ -282,7 +282,7 @@ p {
     text-align: center;
 }
 #am .am-title span {
-    color: yellow;
+    color: red;
 }
 #am .col-right h2 {
     font-size: 2rem;
@@ -298,7 +298,7 @@ p {
     padding: 10px 30px;
     color: white;
     background-color: transparent;
-    border: 2px solid yellow;
+    border: 2px solid red;
     font-size: 2rem;
     text-transform: uppercase;
     letter-spacing: 1rem;
@@ -311,7 +311,7 @@ p {
 }
 #am .cta:hover {
     color: white;
-    background-color: yellow;
+    background-color: red;
 }
 #am .col-right .cta {
     color: black;
@@ -330,7 +330,7 @@ p {
     text-align: center;
 }
 #ci .ci-title span {
-    color: yellow;
+    color: red;
 }
 #ci .ci {
     flex-direction: column;
@@ -397,6 +397,6 @@ p {
 
 @keyframes text_name {
     100% {
-        color: yellow;
+        color: red;
     }
 }
