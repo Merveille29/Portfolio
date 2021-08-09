@@ -1,3 +1,4 @@
+@media all and (min-width: 320px) and (max-width: 600px)
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
 * {
     padding: 0;
@@ -20,8 +21,7 @@ body{
 a {
     text-decoration: none;
 }
-@media all and (min-width: 1024px) and (max-width: 1280px)
-{
+
 .container {
     min-height: 100vh;
     width: 100%;
@@ -399,5 +399,4 @@ p {
     100% {
         color: yellow;
     }
-}
 }
