@@ -42,13 +42,13 @@ p {
 }
 
 #header .nav-bar a{
-    font-size: 1.5rem;
-    font-weight: 6.25rem;
+    font-size: 1rem;
+    font-weight: 3rem;
     color: white;
     margin-bottom: 5px;
     text-transform: uppercase;
     margin-right: 20px;
-    letter-spacing: .2rem;
+    letter-spacing: .1rem;
     text-align: center;
 }
 
