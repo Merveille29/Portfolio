@@ -45,7 +45,7 @@ p {
     color: white;
     margin-bottom: 5px;
     text-transform: uppercase;
-    margin-right: 20px;
+    margin-right: 80px;
     letter-spacing: .2rem;
     text-align: center;
 }
@@ -107,7 +107,7 @@ p {
     padding: 10px 30px;
     color: white;
     background-color: transparent;
-    border: 2px solid green;
+    border: 2px solid yellow;
     font-size: 2rem;
     text-transform: uppercase;
     letter-spacing: 1rem;
