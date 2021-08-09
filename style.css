@@ -41,14 +41,13 @@ p {
     letter-spacing: .05rem;
 }
 
-
 #header .nav-bar a{
     font-size: 1.5rem;
     font-weight: 6.25rem;
     color: white;
     margin-bottom: 5px;
     text-transform: uppercase;
-    margin-left: 90px;
+    margin-right: 20px;
     letter-spacing: .2rem;
     text-align: center;
 }
@@ -58,27 +57,27 @@ p {
 }
 
 #header {
-	position: fixed;
-	z-index: 1000;
-	left: 0;
-	top: 0;
-	width: 100vw;
-	height: auto;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: auto;
 }
 
 #header .header {
-	min-height: 15vh;
-	background-color: #808080/*rgba(31, 30, 30, 0.24);*/
+    min-height: 15vh;
+    background-color: grey;
 }
 
 #header .nav-bar {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	width: 99%;
-	height: 100%;
-	max-width: 1300px;
-	padding: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 99%;
+    height: 100%;
+    max-width: 1300px;
+    padding: 0 10px;
 }
 
 #fd {
